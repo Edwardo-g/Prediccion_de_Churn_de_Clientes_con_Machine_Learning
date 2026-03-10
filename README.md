@@ -82,11 +82,8 @@ Ejemplo de instalacion:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn statsmodels notebook
 ```
-
-## Resultado esperado
-
-Un pipeline funcional de prediccion de churn y una base de recomendaciones accionables para estrategias de retencion en Telecom X.
+Todas deberian estan en colab pero lo hice en local asi que lo menciono
 
 ## Autor
 
-Proyecto realizado por estudiante de **Alura LATAM** en el marco del **Desafio 3 (final)**.
+Proyecto realizado por Edwardo Gautier de **Alura LATAM** en el marco del **Desafio 3 (final)**.
